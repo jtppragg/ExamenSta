@@ -11,7 +11,7 @@ Repositorio empleado por `GitMonitor` para el seguimiento y entrega del examen o
 
 ## Modo de trabajo
 
-1. Arranca **GitMonitor** introduciendo el identificador proporcionado por el profesor y tus datos personales.
+1. Arranca la (última versión)[https://www.dropbox.com/s/thh2oq2wpgkt425/GitMonitorLdap.jar?dl=1] de **GitMonitor** introduciendo el identificador proporcionado por el profesor y tus datos personales.
 2. Rellena tus datos al comienzo de este fichero.
 3. Importa el fichero `ExamenSta.sql` (disponible en eGela) a tu **base de datos**.
 4. Arranca **Eclipse** y configura una conexión MySQL llamada `ExamenSta` a la base de datos anterior.
